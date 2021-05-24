@@ -13,33 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.github.aistomin.deutsche.post.api;
-
 /**
- * Dummy class.
- * @since 1.0
+ * Root package.
  */
-public class Dummy {
-
-    /**
-     * Dummy field.
-     */
-    private final String field;
-
-    /**
-     * Ctor.
-     * @param fld Dummy field value.
-     */
-    public Dummy(final String fld) {
-        this.field = fld;
-    }
-
-    /**
-     * Dummy method.
-     *
-     * @return Dummy value.
-     */
-    String dummy() {
-        return this.field;
-    }
-}
+package com.github.aistomin.deutsche.post.api;
