@@ -29,7 +29,7 @@ class DummyTest {
      */
     @Test
     void testDummy() {
-        final String val = "test";
+        final String val = "test1";
         Assertions.assertEquals(val, new Dummy(val).dummy());
     }
 }
